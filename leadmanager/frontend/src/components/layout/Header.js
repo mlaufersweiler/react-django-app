@@ -19,7 +19,7 @@ class Header extends Component {
           <a className="navbar-brand" href="#">
             Lead Managers
           </a>
-          <ul class="navbar-nav mr-auto mt-2 mt-lg-0"></ul>
+          <ul className="navbar-nav mr-auto mt-2 mt-lg-0"></ul>
         </div>
       </nav>
     );
